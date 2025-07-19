@@ -383,7 +383,7 @@ export default function InstallForm() {
         textAlign="center"
       >
         <Image
-          src="/my-logo.png"
+          src="/board-drop-ops.png"
           alt="Logo"
           mx={-5}
           mb={-10}
